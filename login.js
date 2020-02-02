@@ -3,7 +3,7 @@ function myFunction1() {
 	console.log(User);
 	var Password = document.getElementById("login__password").value;
 	console.log(Password);
-	if(Password == "12345678") {
+	if(Password == "fazeup") {
 		location.href = "organization.html";
 	}
  
